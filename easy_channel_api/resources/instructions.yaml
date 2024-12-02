@@ -1,0 +1,111 @@
+burns_and_scalds: "1. Avoid handling the affected area more than necessary. See that your hands are as clean as possible by washing them.\n
+                   2. Do not apply lotions of any kind.\n
+                   3. Do not remove burned clothing and do not break blisters.\n
+                   4. Cover the area (including burned clothing), with a dry sterile dressing if possible, or similar material such as clean lint, freshly-laundered linen.\n
+                   5. Bandage firmly, except when blisters are present or suspected, in which case, bandage lightly.\n
+                   6. Immobilise the area by suitable means.\n
+                   7. Treat for shock."
+
+
+burns_and_scalds_acid: "1. Thoroughly flood the part with water.\n
+                        2. Bathe the part freely with an alkaline solution made from two teaspoons of baking soda or washing soda in one pint of warm water."
+
+
+burns_and_scalds_alkalis: "1. If the burn is caused by quicklime, brush off any remains.\n
+                           2. Bathe the part freely with a weak acid solution, such as vinegar or lemon juice, diluted with an equal quantity of warm water."
+
+
+heart_attack: "Before the person reaches a hospital, an aspirin tablet can lower the risk of clot formation.\n
+               Seat the patient in a comfortable position.\n
+               If breathing isn't normal or the patient is unresponsive, hands-on CPR (Cardiopulmonary resuscitation) may be applied, to double the chances of survival."
+
+
+cuts: "1. Place patient in a suitable position, elevating the bleeding part, unless it is a fractured limb.\n
+       2. Do not disturb any blood clots formed.\n
+       3. Removing as little clothing as possible, expose the wound.\n
+       4. Remove any foreign bodies which are visible, and can be easily picked out or wiped off with a clean dressing.\n
+       6. Apply and maintain both direct and indirect pressure.\n
+       7. Apply a clean dressing and bandage.\n
+       8. Immobilise the injured part. When the wound is near a joint, immobilise it using splints if needed."
+
+
+heat_stroke: "Immediately move the patient out of the heat, remove excessive clothing, and cool them using whatever means possible, including\n\n
+
+              1. Placing the person in a tub of cool water or a cool shower\n
+              2. Spray with a garden hose\n
+              3. Sponge with cold water\n
+              4. Fan while misting with cool water\n
+              5. Place ice packs or cool, wet towels on the neck, armpits and groin\n
+              6. Cover with cool, damp sheets\n\n
+
+              Make the person drink cool water to rehydrate."
+
+
+fractures: "1. Treat the fracture on the spot\n
+               Don't move the patient till the injured part has been immobilised unless life is in immediate danger from some other cause.\n
+               If, however, circumstances are such that final immobilisation cannot be completed on the spot, carry out a temporary fix to enable the patient to be moved for a short distance to more suitable and safe surroundings.\n
+               Haemorrhage and severe wounds must be dealt with before continuing with the treatment of fractures, with due regard to requirements of both types of injuries.\n
+            2. Steady and support the injured parts at once, so that movement is impossible. This prevents further injury and the increase in the bleeding which always takes place at the site of the fracture. It also prevents broken bone ends from piercing or damaging the skin, blood vessels, nerves or muscles.\n
+            3. Immobilise the fracture by the use of bandages or the use of splints.\n
+               Using the patient's body as a means of support, application of bandages would be adequate.\n
+               Additional support of splints may be required when there is a possibility of long or difficult transport before medical aid is possible.\n
+               Splints are required when both lower limbs are fractured.\n\n
+
+            The use of bandages:-\n
+            Never apply a bandage over the site of a fracture.\n
+            They must be applied sufficiently firmly to prevent harmful movements, but not so tightly as to prevent the circulation of blood.\n\n
+
+            In the case of a fractured limb, further swelling may occur, causing the bandage to become too tight.\n
+            Should this occur, loosen them at once to allow normal circulation to return.\n
+            Padding must always be placed between the ankles and knees if these are tied together."
+
+
+fractures_upper_limb: "Do not remove the patient's jacket, if any.\n
+                       Bend the elbow and lay the injured limb against their chest with the fingers just touching the opposite shoulder.\n
+                       Apply adequate padding between the limb and the chest.\n
+                       Fix the hand in position with a collar and cuff sling, taking care that there is no constriction at the wrist.\n
+                       Secure the limb firmly to the chest by two broad bandages.\n\n
+
+                       1. The first with its upper border level with the top of the shoulder.\n
+                       2. The second with its lower border level with the tip of the elbow.\n\n
+
+                       Tie off both bandages on the opposite side of the body, like in the picture.\n
+                       Feel the pulse on the injured side to ensure there is no interference with the circulation of the limb."
+
+
+electrocution: "1. Switch off the current, and if it cannot be put off, cut off supply by removing the plug, breaking the cable or wrenching it free. Never attempt to cut a cable with a knife or scissors.\n
+                2. Remove the patient from contact with the current with the greatest care, using dry insulating materials. With domestic apparatus, gloves are good; a folded garment or newspaper gives fair protection.\n
+                3. Reassure the patient.\n
+                4. Lay the patient down on their back, with the head low and turned to one side unless there is an injury to the head, abdomen or chest when the head and shoulders should be slightly raised and supported.\n
+                5. Loosen clothing around the neck, chest and waist.\n
+                6. Wrap them in a blanket or rug.\n
+                7. Give sips of water, coffee or any liquid but never alcohol."
+
+
+bites_and_stings: "1. If it is a bee, wasp or hornet sting, remove the sting with a pair of tweezers. If tweezers aren't available, apply pressure around the sting to force it out.\n
+                   2. Wash thoroughly with soap and water, and apply an antihistamine ointment or lotion to relieve itching.\n
+                   3. Avoid scratching the bites."
+
+
+dog_cat_bite: "1. Wash the wound with water to remove bacteria-filled saliva of the animal.\n
+               2. Keep the bitten part low.\n
+               3. Bathe the wound with a weak solution of permanganate of potash, if available.\n
+               4. Apply a clean dressing after taking care that the wound has been cauterised."
+
+
+choking: "Dislodge the respiratory tract obstruction by bending the patient's head and shoulders forward, or in the case of a small child, hold them upside down and thump the back hard, between the shoulder-blades.\n
+          Try inducing vomiting to help the person regurgitate the item causing the blockage."
+
+
+seizures: "First aid for seizures aims at keeping the person safe until it stops on its own.\n
+           Loosen any clothing around the person's neck, do not restrain them or put anything into their mouth, clear the area around them and stay with them till the seizure stops."
+
+
+eye_trauma: "1. Prevent the patient from rubbing the eye, and set them facing the light, standing in front of them.\n
+             2. Pull down the lower eyelid, and if the foreign body is seen and isn't embedded, remove it with the corner of a clean handkerchief, preferably white, twirled up and moistened with water.\n\n
+
+             If the body is embedded, do not attempt to remove it, but instruct the patient to close their eyes.\n
+             Apply a soft pad of cotton wool and secure it with a bandage."
+
+eye_trauma_liquid: "Blink the eyes under water or flush the eyes with copious amounts of water.\n
+                    Apply a soft cotton pad over the eye, and keep it in position with a shade or bandage applied lightly."
